@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theodor908
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning C++
 
 <!---
 Theodor908/Theodor908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
